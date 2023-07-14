@@ -1,3 +1,1 @@
-# magic-villa-api
-
-Learning Restful API
+# MagicVilla
